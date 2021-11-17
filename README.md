@@ -1,1 +1,1 @@
-# C-minidatabase-for-a-person_male
+# C++ minidatabase-for-a-person_male
